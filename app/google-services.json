@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248162662371",
+    "project_id": "inspire-section",
+    "storage_bucket": "inspire-section.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248162662371:android:d36c0eea3d8cd34b26d2d6",
+        "android_client_info": {
+          "package_name": "com.example.inspire_section"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248162662371-5ndb5dca3mvh6j514okk0lbkcfnjcaqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZAK0cqdiYkO14Gq8nylZK3t1ZlQOCB1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248162662371-5ndb5dca3mvh6j514okk0lbkcfnjcaqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
